@@ -4,7 +4,8 @@ Installs `ferm` firewall script for SSH.
 
 ## Requirements
 
-* `ssh` cookbook from mlen/ssh-cookbook
+* `ssh` cookbook from [mlen/ssh-cookbook](https://github.com/mlen/ssh-cookbook)
+* `ferm` cookbook from [mlen/ferm-cookbook](https://github.com/mlen/ferm-cookbook)
 
 ## Configuration
 
